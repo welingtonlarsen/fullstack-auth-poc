@@ -1,0 +1,19 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th,
+.table td {
+    border: 1px solid lightgray;
+    padding: 8px;
+    text-align: left;
+}
+
+.table th {
+    background-color: lightgray;
+}
+
+button {
+    margin-top: 10px;
+}
